@@ -1,0 +1,19 @@
+@charset "UT-8";
+
+header{
+    margin-top: auto;
+    padding-bottom: 400px;
+
+}
+
+body{
+   text-align: center;
+   }
+
+footer{
+    flex-shrink: 0;
+    background-color: black;
+    color: white;
+    padding: 15px 20px 20px 50px;
+    text-align: center;
+}
