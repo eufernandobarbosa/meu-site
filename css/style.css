@@ -19,8 +19,21 @@ body{
  }
 
  main{
-    
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top:100px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(114, 114, 114);
  }
+ main >p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    position: relative;
+    top:150px
+
+    }
 
 
 footer{
