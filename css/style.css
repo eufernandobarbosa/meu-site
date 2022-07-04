@@ -2,18 +2,33 @@
 
 header{
     margin-top: auto;
-    padding-bottom: 400px;
+    padding-bottom:
 
 }
 
 body{
-   text-align: center;
-   }
+    text-align: center;
+
+}
+
+
+ div#title{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+ }
+
+ main{
+    
+ }
+
 
 footer{
+
+    margin-top: 400px;
     flex-shrink: 0;
     background-color: black;
     color: white;
-    padding: 15px 20px 20px 50px;
+    padding: 20px ;
     text-align: center;
 }
